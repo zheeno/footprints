@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Footprints</string>
+    <string name="tracking_enabled_notif">Tracking is currently enabled. Tap to cancel.</string>
+    <string name="test_email">iameputesandra@gmail.com</string>
+    <string name="test_password" translatable="false">perry2017</string>
+    <string name="firebase_path">location</string>
+    <string name="username">Username</string>
+    <string name="example_email_com">example@email.com</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="footprints_is_currently_tracking_your_journey">Geolocation is on</string>
+    <string name="activity_loc_text">No location activity is being monitored, kindly select a location on the map to get more insight</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Confirm</string>
+</resources>
